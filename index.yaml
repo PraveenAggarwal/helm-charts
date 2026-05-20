@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-world-web:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-05-20T17:47:39.008425111-04:00"
+    description: Hello World web app for Edge ICP learning exercise
+    digest: 20efbde01d2a0b2bad41e0bb60ab308855061c6c50ce5806941c01fa1f764f78
+    name: hello-world-web
+    type: application
+    urls:
+    - hello-world-web-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-05-20T17:47:38.998045178-04:00"
