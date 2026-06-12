@@ -3,7 +3,7 @@ entries:
   hello-world-web:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-12T16:10:18.697295612-04:00"
+    created: "2026-06-12T16:22:59.195431346-04:00"
     description: Hello World web app for Edge ICP learning exercise
     digest: 20efbde01d2a0b2bad41e0bb60ab308855061c6c50ce5806941c01fa1f764f78
     name: hello-world-web
@@ -14,7 +14,7 @@ entries:
   ncr-learning-chrome:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-12T16:10:18.697925692-04:00"
+    created: "2026-06-12T16:22:59.195676982-04:00"
     description: A Chrome browser container with VNC for learning Edge ICP deployments
     digest: c735353827ef4a4699258ac9e5f1c8043bf93c3248f9f1ad189d07fa87cec15b
     name: ncr-learning-chrome
@@ -22,20 +22,10 @@ entries:
     urls:
     - https://praveenaggarwal.github.io/helm-charts/ncr-learning-chrome-1.0.1.tgz
     version: 1.0.1
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2026-06-12T16:10:18.697639866-04:00"
-    description: A Chrome browser container with VNC for learning Edge ICP deployments
-    digest: f2bbb04e077b0f82e4356ce3afa9d3322e870b6e57eb1c6ff0d87cb64626b1f8
-    name: ncr-learning-chrome
-    type: application
-    urls:
-    - https://praveenaggarwal.github.io/helm-charts/ncr-learning-chrome-1.0.0.tgz
-    version: 1.0.0
   ncr-learning-web-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-12T16:10:18.698251103-04:00"
+    created: "2026-06-12T16:22:59.195859287-04:00"
     description: A simple Flask web app for learning Edge ICP deployments
     digest: cb2e8d0f0c1ccbeff761af31d1a54b5ecf5b761130da9fbfd03292eb4265b156
     name: ncr-learning-web-app
@@ -43,4 +33,4 @@ entries:
     urls:
     - https://praveenaggarwal.github.io/helm-charts/ncr-learning-web-app-1.0.0.tgz
     version: 1.0.0
-generated: "2026-06-12T16:10:18.696130479-04:00"
+generated: "2026-06-12T16:22:59.194868692-04:00"
